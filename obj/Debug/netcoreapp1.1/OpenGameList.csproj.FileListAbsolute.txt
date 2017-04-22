@@ -1,9 +1,0 @@
-C:\Users\denni\Source\Repos\OpenGameList\bin\Debug\netcoreapp1.1\OpenGameList.deps.json
-C:\Users\denni\Source\Repos\OpenGameList\bin\Debug\netcoreapp1.1\OpenGameList.runtimeconfig.json
-C:\Users\denni\Source\Repos\OpenGameList\bin\Debug\netcoreapp1.1\OpenGameList.runtimeconfig.dev.json
-C:\Users\denni\Source\Repos\OpenGameList\bin\Debug\netcoreapp1.1\OpenGameList.dll
-C:\Users\denni\Source\Repos\OpenGameList\bin\Debug\netcoreapp1.1\OpenGameList.pdb
-C:\Users\denni\Source\Repos\OpenGameList\obj\Debug\netcoreapp1.1\OpenGameList.AssemblyInfo.cs
-C:\Users\denni\Source\Repos\OpenGameList\obj\Debug\netcoreapp1.1\OpenGameList.dll
-C:\Users\denni\Source\Repos\OpenGameList\obj\Debug\netcoreapp1.1\OpenGameList.pdb
-C:\Users\denni\Source\Repos\OpenGameList\obj\Debug\netcoreapp1.1\OpenGameList.csprojResolveAssemblyReference.cache
